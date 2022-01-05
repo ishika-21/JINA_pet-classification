@@ -1,4 +1,3 @@
 from jina import Document, DocumentArray, Flow
-def index():
-  
-  docs = DocumentArray.from_files('') 
+
+   docs = DocumentArray(from_csv(file, field_resolver={"Description": "text"}))
