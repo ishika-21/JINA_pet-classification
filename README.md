@@ -6,4 +6,4 @@ Backend: Jina.
 Frontend: Streamlit.
 Dataset: Kaggle dataset of Pet Breed characteristics.
 # Dataset
-:- https://www.kaggle.com/rturley/pet-breed-characteristics?select=dog_breed_characteristics.csv
+https://www.kaggle.com/zippyz/cats-and-dogs-breeds-classification-oxford-dataset
